@@ -177,8 +177,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
-    <None Include="shader\fragment0.shader" />
-    <None Include="shader\fragment1.shader" />
+    <None Include="shader\fragment.shader" />
     <None Include="shader\vertex.shader" />
   </ItemGroup>
   <ItemGroup>
