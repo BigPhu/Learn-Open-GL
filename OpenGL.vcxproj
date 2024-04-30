@@ -177,12 +177,15 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".gitignore" />
-    <None Include="shader\fragment.shader" />
+    <None Include="shader\fragment0.shader" />
+    <None Include="shader\fragment1.shader" />
     <None Include="shader\vertex.shader" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="texture\awesomeface.png" />
     <Image Include="texture\container.jpg" />
+    <Image Include="texture\dirt.png" />
+    <Image Include="texture\duck.jpg" />
     <Image Include="texture\wall.jpg" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

@@ -50,8 +50,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="shader\vertex.shader" />
-    <None Include="shader\fragment.shader" />
+    <None Include="shader\fragment0.shader" />
     <None Include=".gitignore" />
+    <None Include="shader\fragment1.shader" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="texture\awesomeface.png">
@@ -61,6 +62,12 @@
       <Filter>Resource Files</Filter>
     </Image>
     <Image Include="texture\wall.jpg">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\dirt.png">
+      <Filter>Resource Files</Filter>
+    </Image>
+    <Image Include="texture\duck.jpg">
       <Filter>Resource Files</Filter>
     </Image>
   </ItemGroup>
