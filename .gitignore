@@ -222,3 +222,8 @@ $RECYCLE.BIN/
 *.msm
 *.msp
 /.vs/OpenGL/FileContentIndex
+/.vs/OpenGL/v17/DocumentLayout.json
+/.vs/OpenGL/v17/Browse.VC.db
+/.vs/OpenGL/v17/Browse.VC.db-shm
+/.vs/OpenGL/v17/Browse.VC.db-wal
+/.vs/OpenGL/v17/Browse.VC.opendb
