@@ -221,3 +221,4 @@ $RECYCLE.BIN/
 *.msi
 *.msm
 *.msp
+/.vs/OpenGL/FileContentIndex
